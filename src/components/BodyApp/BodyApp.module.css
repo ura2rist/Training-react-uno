@@ -1,0 +1,11 @@
+.bodyApp{
+	display: flex;
+	flex-wrap: wrap;
+	min-height: 320px;
+}
+
+@media screen and (max-width: 450px){
+	.bodyApp {
+	    width: 100%;
+	}
+}

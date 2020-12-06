@@ -1,0 +1,15 @@
+.headerApp{
+	height: 100px;
+	display: flex;
+	flex-wrap: wrap;
+	width: 400px;
+}
+
+@media screen and (max-width: 450px){
+	.headerApp {
+	    height: 100px;
+	    display: flex;
+	    flex-wrap: wrap;
+	    width: 100%;
+	}
+}

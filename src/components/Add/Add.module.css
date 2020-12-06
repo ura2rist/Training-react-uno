@@ -1,0 +1,16 @@
+.add__form__button{
+    height: 35px;
+    margin-top: 15px;
+}
+
+.add{
+	width: 65%;
+}
+
+.add__form{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	height: 100%;
+}

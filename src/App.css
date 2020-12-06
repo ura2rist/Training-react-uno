@@ -1,0 +1,12 @@
+html{
+	height: 100%;
+}
+
+body{
+	min-height: 100%;
+	background-image: url('../src/img/bg.png');
+	display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Sans-serif;
+}

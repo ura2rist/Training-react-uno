@@ -1,0 +1,14 @@
+.players__table__buttonClose{
+	background-image: url('../../../img/closse.png');
+	background-repeat: no-repeat;
+	background-color: #fff;
+	background-position: 3px;
+    background-size: 15px;
+	width: 25px;
+	height: 25px;
+	border-radius: 20px;
+}
+
+.players__table__amount{
+	width: 50px;
+}

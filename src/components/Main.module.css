@@ -1,0 +1,18 @@
+.cart{
+	display: flex;
+	background-color: #fff;
+	border-radius: 25px;
+	width: 400px;
+	flex-wrap: wrap;
+	min-height: 400px;
+	box-shadow: 0 0 11px 3px rgba(0,0,0,1);
+}
+
+
+@media screen and (max-width: 450px){
+	.cart {
+	    width: 100%;
+	    border-radius: 0;
+	    box-sizing: border-box;
+	}
+}
